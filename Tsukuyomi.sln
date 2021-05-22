@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tsukuyomi.UI", "Tsukuyomi.UI\Tsukuyomi.UI.csproj", "{02002701-DF93-4467-9559-34ED42CF09EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tsukuyomi.Core", "Tsukuyomi.Core\Tsukuyomi.Core.csproj", "{005BCB88-91B6-4952-B684-936A159DD461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02002701-DF93-4467-9559-34ED42CF09EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02002701-DF93-4467-9559-34ED42CF09EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02002701-DF93-4467-9559-34ED42CF09EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02002701-DF93-4467-9559-34ED42CF09EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{005BCB88-91B6-4952-B684-936A159DD461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005BCB88-91B6-4952-B684-936A159DD461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005BCB88-91B6-4952-B684-936A159DD461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005BCB88-91B6-4952-B684-936A159DD461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

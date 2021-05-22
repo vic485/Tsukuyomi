@@ -1,0 +1,11 @@
+﻿# Editor cache
+.idea/
+.vs/
+.vscode/
+
+# Build dirs
+bin/
+obj/
+
+# Generated files
+*.user
