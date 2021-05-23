@@ -4,6 +4,7 @@
         <TargetFramework>net5.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ApplicationManifest>app.manifest</ApplicationManifest>
+        <ApplicationIcon>Assets/tsukuyomi.ico</ApplicationIcon>
     </PropertyGroup>
     <ItemGroup>
         <Folder Include="Models\" />
